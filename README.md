@@ -15,9 +15,12 @@ Like i said, this modpack contains all the important stuff, while bringing new c
 The total mods in this pack are over 100, allowing you hundreds of hours in addition to what it already has. We try to hit every aspect of the game, including:
 
 - More Immersion
+- Improved Audio and Reverb
+- Important Patches
 - Updated Graphics and Textures
 - Visual Improvements
 - Improvements to Ammo Crafting, new weapons, and more.
+- New Lands to explore, as well as brand new quests.
 
 **To see what we really have going on, try out our modpack**
 
