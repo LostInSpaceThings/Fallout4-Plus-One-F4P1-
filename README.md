@@ -20,3 +20,12 @@ The total mods in this pack are over 100, allowing you hundreds of hours in addi
 - Improvements to Ammo Crafting, new weapons, and more.
 
 **To see what we really have going on, try out our modpack**
+
+# Personal Customizable Options
+
+This modpack includes MCM, allowing you to customize some of the mods it has. You can leave it, or change it. We use NAC for weathers, it will guide you on first load.
+We also have a survival mod, feel free to customize it. It's basically there to bring those features from 76 tom Fallout 4.
+
+# Can I Use ENB?
+
+Absolutely. Which one you choose is up to you, but we recommend Dawn ENB.
